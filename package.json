@@ -1,20 +1,21 @@
 {
-  "name": "backend",
+  "name": "cse_15_fsd_274",
   "version": "1.0.0",
   "description": "",
-  "license": "ISC",
-  "author": "",
-  "type": "commonjs",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "dependencies": {
-    "express": "^5.2.1",
-    "graphql": "^17.0.2"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/devverma5160-star/FSD-BACKEND-CSE15.git"
   },
-  "devDependencies": {
-    "nodemon": "^3.1.14"
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/devverma5160-star/FSD-BACKEND-CSE15/issues"
   },
-  "keywords": []
+  "homepage": "https://github.com/devverma5160-star/FSD-BACKEND-CSE15#readme"
 }
